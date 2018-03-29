@@ -1,4 +1,4 @@
-# test-react-npm
+# test-react-npm-semantic-release
 
 > A library to test out publishing a React based package to npm
 

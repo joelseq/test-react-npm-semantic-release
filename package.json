@@ -1,5 +1,5 @@
 {
-  "name": "test-react-npm",
+  "name": "test-react-npm-semantic-release",
   "version": "1.0.0",
   "description": "A library to test out publishing a React based package to npm",
   "author": "joelseq",
