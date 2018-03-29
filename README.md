@@ -2,12 +2,12 @@
 
 > A library to test out publishing a React based package to npm
 
-[![NPM](https://img.shields.io/npm/v/test-react-npm.svg)](https://www.npmjs.com/package/test-react-npm) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+[![NPM](https://img.shields.io/npm/v/test-react-npm-semantic-release.svg)](https://www.npmjs.com/package/test-react-npm-semantic-release) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
 ## Install
 
 ```bash
-npm install --save test-react-npm
+npm install --save test-react-npm-semantic-release
 ```
 
 ## Usage

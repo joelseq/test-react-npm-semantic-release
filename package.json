@@ -4,7 +4,7 @@
   "description": "A library to test out publishing a React based package to npm",
   "author": "joelseq",
   "license": "MIT",
-  "repository": "joelseq/test-react-npm",
+  "repository": "joelseq/test-react-npm-semantic-release",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
   "jsnext:main": "dist/index.es.js",
